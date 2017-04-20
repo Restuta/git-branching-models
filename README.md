@@ -1,2 +1,3 @@
-# git-branching-models
-My vision on git branching models
+# Git Branching Models
+
+(Next + Master)[next-master.md]
